@@ -25,7 +25,7 @@ $$ x^{(1)} = 1 - \frac{2\cos(1)(-\sin(1))}{2[-\sin(1)]^2-\cos(1)(-\cos(1))} \app
 
 
 
-Oss. L'algoritmo si ferma quando trova un'approssimazione della radice al disotto di una tolleranza (input) oppure quando raggionge il masismo numero di passi stabilito (input).
+Oss. L'algoritmo si ferma quando trova un'approssimazione della radice al disotto di una tolleranza (input) oppure quando raggionge il massimo numero di passi stabilito (input).
 
 ### Di seguito riportata la tabella delle varie iterate generate con Matlab:
 
